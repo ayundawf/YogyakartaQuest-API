@@ -4,5 +4,6 @@ This repository is dedicated to our Yogyakarta Quest application API. Our Cloud 
 
 ## Our Cloud Computing Team:
 Ayunda Wardhatul Fitrah (C296BSX4093)
+
 Cindy Berliana Latansyah (C296BSX3983)
 <br />
